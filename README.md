@@ -15,6 +15,6 @@ Experiência em desenvolvimento de layouts responsivos, performáticos e sempre 
 
 ## Contato
 
-Email: heronnepo1@gmail.com
-Linkedin: https://www.linkedin.com/in/heron-nepomuceno-b3125b1b6/
-Website: https://heron.pages.dev/
+- Email: heronnepo1@gmail.com
+- Linkedin: https://www.linkedin.com/in/heron-nepomuceno-b3125b1b6/
+- Website: https://heron.pages.dev/
