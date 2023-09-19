@@ -6,8 +6,8 @@ Experiência em desenvolvimento de layouts responsivos, performáticos e sempre 
 
 ## Habilidades
 
-- HTML, CSS, Javascript
-- Vuejs, Astro, React
+- HTML, CSS, Javascript, Typescript
+- Vuejs, Astro, React, Svelte, Sveltekit
 - Stylus, Sass
 - Tailwind
 - Figma
