@@ -1,6 +1,6 @@
 ### Olá, sou o Heron! 👋
 
-Sou programador front-end web :desktop_computer:
+Sou desenvolvedor web :desktop_computer:
 Aluno do curso de Ciências da Computação na UESPI :student:.
 Experiência em desenvolvimento de layouts responsivos, performáticos e sempre considerando a acessibilidade da aplicação junto das boas práticas de SEO.
 
