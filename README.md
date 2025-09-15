@@ -1,8 +1,6 @@
 ### Hello, I am Heron! 👋
 
-I am a web developer :desktop_computer:
-Student in the Computer Science program at UESPI (State University of Piauí) :student:.
-I have experience in developing responsive and high-performance layouts, always taking into account application accessibility along with best SEO practices.
+I am a Web Developer 🖥️ Bachelor in Computer Science from UESPI (State University of Piauí) 🎓. I have experience building responsive and high-performance layouts, always focusing on accessibility and following best SEO practices.
 
 ## Skills
 
