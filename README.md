@@ -1,6 +1,6 @@
 ### Hello, I am Heron! 👋
 
-I am a Web Developer 🖥️ Bachelor in Computer Science from UESPI (State University of Piauí) 🎓. I have experience building responsive and high-performance layouts, always focusing on accessibility and following best SEO practices.
+Bachelor in Computer Science from the State University of Piauí. Experienced in full stack web development, working on the frontend with responsive, accessible, and SEO-optimized interfaces, and on the backend with API development, database management, and CI/CD practices to ensure efficiency and quality throughout the development lifecycle.
 
 ## Skills
 
