@@ -4,12 +4,11 @@ I am a Web Developer 🖥️ Bachelor in Computer Science from UESPI (State Univ
 
 ## Skills
 
-- HTML, CSS, Javascript, Typescript
-- Vuejs, Astro, React, Svelte, Sveltekit
-- Stylus, Sass
-- Tailwind
+- Typescript | Javascript | C# | Python
+- HTML5 | CSS3 | SASS | SCSS | Tailwind | Stylus
+- Sveltekit | Svelte | React | ASP .NET | Vuejs
+- Pocketbase, Xata, MySql, Firebase,  Postgresql
 - Figma
-- Git
 
 ## Contact
 
